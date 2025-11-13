@@ -1,6 +1,6 @@
 # Description
 
-HgSccPackage is a Mercurial Source Control Package for MS Visual Studio 2017-2022.
+HgSccPackage is a Mercurial Source Control Package for MS Visual Studio 2017-2026.
 It adds an integration and UI to work with mercurial to a MS Visual Studio.
 
 This is archived version of original repository.
@@ -11,8 +11,8 @@ The original repository was hosted on BitBucket, but was deleted by Atlassian.
 
 Prerequisites:
 
-- The MS Visual Studio 2017
-- The MS Visual Studio 2017 SDK
+- The MS Visual Studio 2026
+- The MS Visual Studio 2026 SDK
 
 ## How to use
 
